@@ -1,5 +1,5 @@
 :root {
-    --primary: #8addcb;
+    --primary: #dd8a8a;
     --bg: rgba(51, 48, 48);
   }
   
@@ -29,7 +29,7 @@
     align-items: center;
     padding: 1.4rem 7%;
     background-color:rgba(51, 48, 48);
-    border-bottom: 1px solid #8addcb;
+    border-bottom: 1px solid #dd8a8a;
     position: fixed;
     top: 0;
     left: 0;
@@ -226,7 +226,7 @@
   .about .row .about-img img {
     width: 100px;
     height: 100px;
-    background-color: #8addcb;
+    background-color: #dd8a8a;
    /* -webkit-mask-image: url('../img/menu/splash.svg');
     -webkit-mask-size: 50%;
     -webkit-mask-repeat: no-repeat;
@@ -291,7 +291,7 @@
   
   /* Footer */
   footer {
-    background-color: #64998e;
+    background-color: #996464;
     text-align: center;
     padding: 1rem 0 3rem;
     margin-top: 3rem;
